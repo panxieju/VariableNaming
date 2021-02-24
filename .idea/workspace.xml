@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cb47323-e4c8-43c8-af0a-5bc10950f5b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Veriables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Varibles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Varibles.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veriables" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeriablesUi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeriablesUi.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/COLLECT-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/Varibles.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/Varibles.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/warn-Varibles.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Varibles/xref-Varibles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res.qrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res_rc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/baidu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable.his" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Varibles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Varibles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VeriablesUi.py" beforeDir="false" afterPath="$PROJECT_DIR$/VeriablesUi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VeriablesUi.ui" beforeDir="false" afterPath="$PROJECT_DIR$/VeriablesUi.ui" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +60,7 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Varibles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -115,6 +88,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.baidu" />
+      <item itemvalue="Python.Varibles" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Varibles" />
@@ -133,7 +110,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614151208889</updated>
       <workItem from="1614151212842" duration="8564000" />
-      <workItem from="1614161141890" duration="114000" />
+      <workItem from="1614161141890" duration="365000" />
+      <workItem from="1614169148116" duration="4492000" />
     </task>
     <servers />
   </component>
@@ -141,89 +119,83 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="420" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614186407274">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="420" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614186407274" />
     <state x="634" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614157333743">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="634" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614157333743" />
-    <state width="1861" height="316" key="GridCell.Tab.0.bottom" timestamp="1614161103544">
+    <state width="1863" height="251" key="GridCell.Tab.0.bottom" timestamp="1614187392324">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
-    <state width="1861" height="316" key="GridCell.Tab.0.center" timestamp="1614161103544">
+    <state width="1863" height="251" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187392324" />
+    <state width="1863" height="251" key="GridCell.Tab.0.center" timestamp="1614187392324">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
-    <state width="1861" height="316" key="GridCell.Tab.0.left" timestamp="1614161103544">
+    <state width="1863" height="251" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187392324" />
+    <state width="1863" height="251" key="GridCell.Tab.0.left" timestamp="1614187392324">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
-    <state width="1861" height="316" key="GridCell.Tab.0.right" timestamp="1614161103544">
+    <state width="1863" height="251" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187392324" />
+    <state width="1863" height="251" key="GridCell.Tab.0.right" timestamp="1614187392324">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
-    <state width="1861" height="316" key="GridCell.Tab.1.bottom" timestamp="1614161103544">
+    <state width="1863" height="251" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187392324" />
+    <state width="1863" height="316" key="GridCell.Tab.1.bottom" timestamp="1614187074554">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.1.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
-    <state width="1861" height="316" key="GridCell.Tab.1.center" timestamp="1614161103544">
+    <state width="1863" height="316" key="GridCell.Tab.1.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187074554" />
+    <state width="1863" height="316" key="GridCell.Tab.1.center" timestamp="1614187074554">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.1.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
-    <state width="1861" height="316" key="GridCell.Tab.1.left" timestamp="1614161103544">
+    <state width="1863" height="316" key="GridCell.Tab.1.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187074554" />
+    <state width="1863" height="316" key="GridCell.Tab.1.left" timestamp="1614187074554">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.1.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
-    <state width="1861" height="316" key="GridCell.Tab.1.right" timestamp="1614161103544">
+    <state width="1863" height="316" key="GridCell.Tab.1.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187074554" />
+    <state width="1863" height="316" key="GridCell.Tab.1.right" timestamp="1614187074554">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1861" height="316" key="GridCell.Tab.1.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614161103544" />
+    <state width="1863" height="316" key="GridCell.Tab.1.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1614187074554" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>64</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>40</line>
+          <line>53</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>37</line>
+          <line>50</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>35</line>
+          <line>47</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>36</line>
+          <line>48</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>43</line>
+          <line>64</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>44</line>
+          <line>65</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Varibles.py</url>
-          <line>45</line>
+          <line>66</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
@@ -236,6 +208,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Veriables$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1614153973584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/Veriables$Varibles.coverage" NAME="Varibles Coverage Results" MODIFIED="1614159970020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Veriables$Varibles.coverage" NAME="Varibles Coverage Results" MODIFIED="1614187246024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

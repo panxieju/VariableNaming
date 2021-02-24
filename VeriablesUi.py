@@ -25,6 +25,14 @@ class Ui_MainWindow(object):
         self.verticalLayout.setObjectName("verticalLayout")
         self.horizontalLayout = QtWidgets.QHBoxLayout()
         self.horizontalLayout.setObjectName("horizontalLayout")
+        self.pushButton = QtWidgets.QPushButton(self.centralwidget)
+        self.pushButton.setMinimumSize(QtCore.QSize(60, 30))
+        self.pushButton.setStyleSheet("border-radius:5px;\n"
+"border:1px solid gray;\n"
+"background-color:rgb(247, 247, 247);\n"
+"margin-left:10px")
+        self.pushButton.setObjectName("pushButton")
+        self.horizontalLayout.addWidget(self.pushButton)
         self.lineEdit = QtWidgets.QLineEdit(self.centralwidget)
         self.lineEdit.setMinimumSize(QtCore.QSize(200, 30))
         self.lineEdit.setStyleSheet("border-radius:5px;\n"
@@ -35,14 +43,6 @@ class Ui_MainWindow(object):
 "padding-right:10px;")
         self.lineEdit.setObjectName("lineEdit")
         self.horizontalLayout.addWidget(self.lineEdit)
-        self.pushButton = QtWidgets.QPushButton(self.centralwidget)
-        self.pushButton.setMinimumSize(QtCore.QSize(60, 30))
-        self.pushButton.setStyleSheet("border-radius:5px;\n"
-"border:1px solid gray;\n"
-"background-color:rgb(247, 247, 247);\n"
-"margin-left:10px")
-        self.pushButton.setObjectName("pushButton")
-        self.horizontalLayout.addWidget(self.pushButton)
         self.pushButton_2 = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton_2.setMinimumSize(QtCore.QSize(100, 30))
         self.pushButton_2.setStyleSheet("border-radius:5px;\n"
@@ -51,6 +51,14 @@ class Ui_MainWindow(object):
 "margin-left:10px")
         self.pushButton_2.setObjectName("pushButton_2")
         self.horizontalLayout.addWidget(self.pushButton_2)
+        self.pushButton_3 = QtWidgets.QPushButton(self.centralwidget)
+        self.pushButton_3.setMinimumSize(QtCore.QSize(100, 30))
+        self.pushButton_3.setStyleSheet("border-radius:5px;\n"
+"border:1px solid gray;\n"
+"background-color:rgb(247, 247, 247);\n"
+"margin-left:10px")
+        self.pushButton_3.setObjectName("pushButton_3")
+        self.horizontalLayout.addWidget(self.pushButton_3)
         self.verticalLayout.addLayout(self.horizontalLayout)
         self.tableWidget = QtWidgets.QTableWidget(self.centralwidget)
         self.tableWidget.setStyleSheet("margin-top:10px;\n"
@@ -70,12 +78,6 @@ class Ui_MainWindow(object):
         self.tableWidget.verticalHeader().setHighlightSections(False)
         self.tableWidget.verticalHeader().setMinimumSectionSize(40)
         self.verticalLayout.addWidget(self.tableWidget)
-        self.graphicsView = QtWidgets.QGraphicsView(self.centralwidget)
-        self.graphicsView.setMaximumSize(QtCore.QSize(16777215, 120))
-        self.graphicsView.setStyleSheet("background-color: rgb(255, 255, 255);\n"
-"border:0px;")
-        self.graphicsView.setObjectName("graphicsView")
-        self.verticalLayout.addWidget(self.graphicsView)
         MainWindow.setCentralWidget(self.centralwidget)
         self.statusbar = QtWidgets.QStatusBar(MainWindow)
         self.statusbar.setObjectName("statusbar")
@@ -86,7 +88,8 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "高大上英文变量名生成器"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "英文变量名生成器"))
         self.pushButton.setText(_translate("MainWindow", "粘贴"))
         self.pushButton_2.setText(_translate("MainWindow", "生成变量"))
+        self.pushButton_3.setText(_translate("MainWindow", "清空历史"))
 import res_rc
